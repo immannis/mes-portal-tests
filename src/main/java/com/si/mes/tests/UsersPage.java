@@ -1,5 +1,8 @@
 package com.si.mes.tests;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
@@ -13,13 +16,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import com.thoughtworks.selenium.*;
 import com.thoughtworks.selenium.webdriven.commands.IsElementPresent;
 
 public class UsersPage {
 
 	private WebDriver driver;
 	private static Logger logger = Logger.getLogger(UsersPage.class);
+	private SimpleDateFormat filterDateFormat = new SimpleDateFormat("yyyy-MM-dd");
+	private SimpleDateFormat userTableDateFormat = new SimpleDateFormat("MMMM dd, yyyy HH:mm");
 
 	public UsersPage(WebDriver webDriver) {
 		driver = webDriver;
@@ -50,7 +55,7 @@ public class UsersPage {
 		driver.findElement(By.xpath("//li[@id='users']/a")).click();
 		logger.info("waiting for Users Page load");
 		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-	   	Assert.assertTrue(driver.findElement(By.xpath("//h2[@id='page_title']")).getText().matches("Users"));
+		Assert.assertTrue(driver.findElement(By.xpath("//h2[@id='page_title']")).getText().matches("Users"));
 		logger.info("Navigated to UsersPage");
 
 	}
@@ -124,7 +129,7 @@ public class UsersPage {
 			return false;
 		}
 	}
-	
+
 	public boolean isCreatedAtRuleFieldsValid() {
 
 		String baseXpathExpr = "//div[@id='q_created_at_input']/";
@@ -161,7 +166,7 @@ public class UsersPage {
 	}
 
 	public void setCreatedAtRule(String fromDt, String toDt) {
-		
+
 		if (fromDt != null && !"".equals(fromDt)) {
 			String xpathExpr = "//input[@id='q_created_at_gteq_datetime']";
 			WebElement elementFromDate = driver.findElement(By.xpath(xpathExpr));
@@ -171,7 +176,8 @@ public class UsersPage {
 		}
 		if (toDt != null && !"".equals(toDt)) {
 			String xpathExpr = "//input[@id='q_created_at_lteq_datetime']";
-			//xpathExpr = xpathExpr.substring(0, 2) + "following-sibling::" + xpathExpr.substring(2, xpathExpr.length());
+			// xpathExpr = xpathExpr.substring(0, 2) + "following-sibling::" +
+			// xpathExpr.substring(2, xpathExpr.length());
 			WebElement elementToDate = driver.findElement(By.xpath(xpathExpr));
 			elementToDate.clear();
 			elementToDate.sendKeys(toDt);
@@ -182,7 +188,7 @@ public class UsersPage {
 
 	public void clickFilterButton() {
 		String xpathExpr = "//form[@id='new_q']/div[@class='buttons']/input[@type='submit']";
-		
+
 		if (isElementEnabledAndDisplayed(xpathExpr)) {
 			driver.findElement(By.xpath(xpathExpr)).click();
 
@@ -201,7 +207,7 @@ public class UsersPage {
 
 	public boolean isSearchStatusUnameRuleLabelDisplayedAndValid(String uNameCond, String uNameVal) {
 		String xpathExpr = "//div[@id='search-status-_sidebar_section']//li[contains(@class,'current_filter_username')]";
-		return isSearchStatusRuleLabel("username",xpathExpr, uNameCond, uNameVal);
+		return isSearchStatusRuleLabel("username", xpathExpr, uNameCond, uNameVal);
 	}
 
 	public boolean isSearchStatusEmailRuleLabelDisplayedAndValid(String eMailCond, String eMailVal) {
@@ -209,8 +215,8 @@ public class UsersPage {
 		return isSearchStatusRuleLabel("email", xpathExpr, eMailCond, eMailVal);
 	}
 
-	public boolean isSearchStatusRuleLabel(String field, String xpath, String cond, String val) {
-		if (val ==null || "".equals(val) ) {
+	private boolean isSearchStatusRuleLabel(String field, String xpath, String cond, String val) {
+		if (val == null || "".equals(val)) {
 			boolean nullsHaveLabelflag = isElementPresent(xpath);
 			if (nullsHaveLabelflag) {
 				return false;
@@ -220,9 +226,9 @@ public class UsersPage {
 			boolean sSlabelflag = isElementPresent(xpath);
 			if (sSlabelflag) {
 				String sSUnameLabel = driver.findElement(By.xpath(xpath + "/span")).getText();
-				sSUnameLabel = sSUnameLabel +" "+driver.findElement(By.xpath(xpath + "/b")).getText();
+				sSUnameLabel = sSUnameLabel + " " + driver.findElement(By.xpath(xpath + "/b")).getText();
 
-				if (sSUnameLabel.equalsIgnoreCase(field +" "+ cond + " " + val)) {
+				if (sSUnameLabel.equalsIgnoreCase(field + " " + cond + " " + val)) {
 					return true;
 				} else {
 					return false;
@@ -234,29 +240,26 @@ public class UsersPage {
 
 		}
 	}
-	
-	
-	public boolean isSearchStatusCreatedAtRuleLabelDisplayedAndValid(String fromDt, String toDt)
-	{
+
+	public boolean isSearchStatusCreatedAtRuleLabelDisplayedAndValid(String fromDt, String toDt) {
 		String xpathExpr = "//div[@id='search-status-_sidebar_section']//li[contains(@class,'current_filter_created_at')]";
 		String ruleName = "created at";
 		String gteqText = " greater or equal to ";
 		String lteqText = " lesser or equal to ";
 		String gteqXpath = xpathExpr.substring(0, 90) + "_gteq" + xpathExpr.substring(90, xpathExpr.length());
-		String lteqXpath =xpathExpr.substring(0, 90) + "_lteq" + xpathExpr.substring(90, xpathExpr.length());
-		
-		boolean fromDatelabelflag =  isSearchStatusDateLabel(ruleName,gteqText,gteqXpath,fromDt );
-		boolean toDatelableflag = isSearchStatusDateLabel(ruleName,lteqText,lteqXpath,toDt );
-		if(fromDatelabelflag && toDatelableflag ){
-		return true;
-		}
-		else {
-		return false;
+		String lteqXpath = xpathExpr.substring(0, 90) + "_lteq" + xpathExpr.substring(90, xpathExpr.length());
+
+		boolean fromDatelabelflag = isSearchStatusDateLabel(ruleName, gteqText, gteqXpath, fromDt);
+		boolean toDatelableflag = isSearchStatusDateLabel(ruleName, lteqText, lteqXpath, toDt);
+		if (fromDatelabelflag && toDatelableflag) {
+			return true;
+		} else {
+			return false;
 		}
 	}
-	
+
 	public boolean isSearchStatusDateLabel(String field, String condText, String xpath, String date) {
-		if (date ==null || "".equals(date) ) {
+		if (date == null || "".equals(date)) {
 			boolean nullsHaveLabelflag = isElementPresent(xpath);
 			if (nullsHaveLabelflag) {
 				return false;
@@ -266,9 +269,9 @@ public class UsersPage {
 			boolean sSDatelabelflag = isElementPresent(xpath);
 			if (sSDatelabelflag) {
 				String sSUnameLabel = driver.findElement(By.xpath(xpath + "/span")).getText();
-				sSUnameLabel = sSUnameLabel +" "+driver.findElement(By.xpath(xpath + "/b")).getText();
+				sSUnameLabel = sSUnameLabel + " " + driver.findElement(By.xpath(xpath + "/b")).getText();
 
-				if (sSUnameLabel.equalsIgnoreCase(field +condText+ date)) {
+				if (sSUnameLabel.equalsIgnoreCase(field + condText + date)) {
 					return true;
 				} else {
 					return false;
@@ -277,83 +280,100 @@ public class UsersPage {
 			} else {
 				return false;
 			}
-		}		
+		}
 	}
-	
-	public boolean isResultSetValidforGivenRule(String ruleName,String ruleCond,String ruleValue )
-	{
+
+	public boolean isResultSetValidforGivenRule(String ruleName, String ruleCond, String ruleValue) {
 		String currentValue = null;
-		StringBuilder errBuilder = new StringBuilder("Error in isResultSetValidforGivenRule: "+ruleName +" failed for " +ruleCond+" in row ");
-		if(ruleValue == null || "".equals(ruleValue))
+		StringBuilder errBuilder = new StringBuilder(
+				"Error in isResultSetValidforGivenRule: " + ruleName + " failed for " + ruleCond + " in row ");
+		if (ruleValue == null || "".equals(ruleValue))
 			return true;
 		String lowerRuleValue = ruleValue.toLowerCase();
-		int resultSetSize = driver.findElements(By.xpath("//table[@id = 'index_table_users']/tbody/tr")).size();	
-			
-		for(int i = 1 ; i <= resultSetSize; i++)
-		{
-			currentValue = driver.findElement(By.xpath("//table[@id = 'index_table_users']/tbody/tr["+i+"]//td[contains(@class,'"+ruleName+"')]")).getText();
-			
-			switch (ruleCond){
-				case "Contains" : 					
-					if(currentValue == null || !currentValue.toLowerCase().contains(lowerRuleValue)) {
-						logger.error(errBuilder.append(i).toString() );
-					    return false;
-					}
-					break;
-				case "Equals" : 
-					if(currentValue == null || !currentValue.toLowerCase().equals(lowerRuleValue)) {
-						logger.error(errBuilder.append(i).toString() );
-					    return false;
-					}
-					break;			                                        
-				case "Starts with" :
-					if(currentValue == null || !currentValue.toLowerCase().startsWith(lowerRuleValue)) {
-						logger.error(errBuilder.append(i).toString() );
-						return false;
-					}
-					break;
-				case "Ends with" : 
-					if(currentValue == null || !currentValue.toLowerCase().endsWith(lowerRuleValue)) {
-						logger.error(errBuilder.append(i).toString() );
-					    return false;
-					}
-					break;
-				default:
-					logger.error("Bad rule condition.");
+		int resultSetSize = driver.findElements(By.xpath("//table[@id = 'index_table_users']/tbody/tr")).size();
+
+		for (int i = 1; i <= resultSetSize; i++) {
+			currentValue = driver.findElement(By.xpath(
+					"//table[@id = 'index_table_users']/tbody/tr[" + i + "]//td[contains(@class,'" + ruleName + "')]"))
+					.getText();
+
+			switch (ruleCond) {
+			case "Contains":
+				if (currentValue == null || !currentValue.toLowerCase().contains(lowerRuleValue)) {
+					logger.error(errBuilder.append(i).toString());
 					return false;
-			}	
-	       
-			
-		}		
-		return true;		
-	
+				}
+				break;
+			case "Equals":
+				if (currentValue == null || !currentValue.toLowerCase().equals(lowerRuleValue)) {
+					logger.error(errBuilder.append(i).toString());
+					return false;
+				}
+				break;
+			case "Starts with":
+				if (currentValue == null || !currentValue.toLowerCase().startsWith(lowerRuleValue)) {
+					logger.error(errBuilder.append(i).toString());
+					return false;
+				}
+				break;
+			case "Ends with":
+				if (currentValue == null || !currentValue.toLowerCase().endsWith(lowerRuleValue)) {
+					logger.error(errBuilder.append(i).toString());
+					return false;
+				}
+				break;
+			default:
+				logger.error("Bad rule condition.");
+				return false;
+			}
+
+		}
+		return true;
+
 	}
-	
-	public void clickNewUSerButton()
-	{
+
+	public void clickNewUSerButton() {
 		String xpathExpr = "//div[@id='titlebar_right']//a[contains(@href,'/admin/users/new')]";
-		if (isElementEnabledAndDisplayed(xpathExpr))
-		{
+		if (isElementEnabledAndDisplayed(xpathExpr)) {
 			driver.findElement(By.xpath(xpathExpr)).click();
 			logger.info("Navigated to New User Page");
 		}
 	}
 	
+	 public String[] getUserDetailsAsInserted(String field) {
+		 
+		 String[] userDetails = new String[3];
+		 String xpathExpr = "//table[@id = 'index_table_users']/tbody//td[contains(text(),'" + field + "')]";
+		  if (isElementPresent(xpathExpr)) {			  
+		  
+		   userDetails[0] = driver.findElement(By.xpath(xpathExpr)).getText();
+		   userDetails[1] = driver.findElement(By.xpath(xpathExpr +"/following-sibling::td[contains(@class,'col-email')]")).getText();
+		   userDetails[2] = driver.findElement(By.xpath(xpathExpr +"/following-sibling::td[contains(@class,'col-created_at')]")).getText();
+		  }
+		  
+		  try {
+			userDetails[2] = filterDateFormat.format(userTableDateFormat.parse("March 21, 2018 21:20"));
+		} catch (ParseException e) {
+			logger.error(e);
+		}
+		  
+		  return userDetails;
+		  
+	 }
+
 	public void clickDeleteLinkOnUser(String field) {
 		String xpathExpr = "//table[@id = 'index_table_users']/tbody//td[contains(text(),'" + field + "')]";
-		// String appStrSelectable = xpathExpr+"/preceding-sibling::td[@class='col
-		// col-selectable']";
 		String appStrDeletelink = xpathExpr
 				+ "/following-sibling::td[@class='col col-actions']//a[contains(text(),'Delete')]";
-		
-		String windowHandle=driver.getWindowHandle();
-		
+
+		String windowHandle = driver.getWindowHandle();
+
 		if (isElementEnabledAndDisplayed(appStrDeletelink)) {
 			// driver.findElement(By.xpath(appStrSelectable)).click();
 			driver.findElement(By.xpath(appStrDeletelink)).click();
 		}
-		
-		for(int i=0; i < 3; i++) {
+
+		for (int i = 0; i < 3; i++) {
 			try {
 				Thread.sleep(1000);
 				Alert alert = driver.switchTo().alert();
@@ -368,10 +388,40 @@ public class UsersPage {
 				logger.error(e.getMessage());
 			}
 		}
-		
+
 	}
 
-
+	public boolean isBatchActionsDisplayedandDisabled()
+	{
+		String xpathExpr= "//form[@id='collection_selection']/div[@class='table_tools']";
+		try {
+		return driver.findElement(By.xpath(xpathExpr+"//a[contains(@class,'disabled')]")).isDisplayed();
+		}
+		catch(Exception e)
+		{
+		return driver.findElement(By.xpath(xpathExpr+"//a[contains(@class,'dropdown_menu_button')]")).isDisplayed();
+		}
+	}
+	
+	public boolean isTotalUserCountinFooterInfo()
+	{
+		
+		int totalUsersOnPage = driver.findElements(By.xpath("//table[@id = 'index_table_users']/tbody/tr")).size();
+		return driver.findElement(By.xpath("//div[@id='index_footer']/div[@class='pagination_information']/b[contains(text(),"+totalUsersOnPage+")]")).isDisplayed();
+		
+	}
+	
+	public boolean isFirstPageSelectedCurrent()
+	{
+		return driver.findElement(By.xpath("//div[@id='index_footer']//span[contains(@class,'current')]")).getText().matches("1");
+		
+	}
+	
+	public void doSelectUserrow()
+	{
+      WebElement element = driver.findElement(By.xpath("//table[@id = 'index_table_users']/tbody/tr[1]//input[@name='collection_selection[]']"));
+	  element.click();	 
+	}
 
 	private boolean isElementPresent(String xpath) {
 		try {

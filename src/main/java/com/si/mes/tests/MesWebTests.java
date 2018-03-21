@@ -8,6 +8,7 @@ import com.si.mes.io.ExcelReader;
 import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
+import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -93,8 +94,9 @@ public class MesWebTests {
 	@Test
 	public void test3CreateUser()
 	{
-		String[] savedUNameeMail = new String[2];
+		String[] savedUsrDetailsFromCustDetails = new String[2];
 		String[] errMsgDuplicateFileds= new String[2];
+		String[] savedUserDetailsFromUserTable= new String[3];
 		Row  row =eReader.getSheet(1).getRow(1);
 		
 		logger.info("Running test3ValidateNewUserAction test on UserPage....");
@@ -107,20 +109,27 @@ public class MesWebTests {
 	    newUserPage.clickCreateUserButton();	 
 	    assertTrue("New User Success Message NOT displayed", newUserPage.isNewUserCreatedMessageDisplayed());
 	    logger.info("Navigated to Edit/Delete User Page and User Success Message displayed");
-	    savedUNameeMail = newUserPage.getValuesFromCustomerDetails();
-	    assertEquals("Entered Username doesn't match with Saved Username", ExcelReader.getValue(row.getCell(0)), savedUNameeMail[0]);
-	    assertEquals("Entered eMail doesn't match with Saved eMail", ExcelReader.getValue(row.getCell(2)), savedUNameeMail[1]);
 	    
-	    logger.info("NewUser creation Validated");
+	    savedUsrDetailsFromCustDetails = newUserPage.getValuesFromCustomerDetails();
+	    assertEquals("Entered Username doesn't match with Saved Username", ExcelReader.getValue(row.getCell(0)), savedUsrDetailsFromCustDetails[0]);
+	    assertEquals("Entered eMail doesn't match with Saved eMail", ExcelReader.getValue(row.getCell(2)), savedUsrDetailsFromCustDetails[1]);
+	    logger.info("User details inserted correctly in CustomerDetails section of NewUser Page");
 	    
 	    usersPage.clickOnUsersTab();
 		logger.info("Navigated to UsersPage");
+	    savedUserDetailsFromUserTable = usersPage.getUserDetailsAsInserted(ExcelReader.getValue(row.getCell(0)));	 	    
+	    assertArrayEquals("UserTable User Details doesn't match inserted details", savedUsrDetailsFromCustDetails, savedUserDetailsFromUserTable);
+	    logger.info("User details propagates to User Table in Users Page");
+
+	    logger.info("NewUser creation Validated");	    
+	    
 		usersPage.clickNewUSerButton();
 		logger.info("Navigated to NewUsersPage");
 		
 		//Enter Duplicates and verify error
 		row =eReader.getSheet(1).getRow(2);
 		newUserPage.setInputfields(ExcelReader.getValue(row.getCell(0)), ExcelReader.getValue(row.getCell(1)), ExcelReader.getValue(row.getCell(2)));
+		
 		newUserPage.clickCreateUserButton();
 		errMsgDuplicateFileds =newUserPage.getErrorMsgForDuplicates();
 	    assertEquals("Error Msg for Duplicate Uname Entry not matching", ExcelReader.getValue(row.getCell(3)), errMsgDuplicateFileds[0]);
@@ -133,9 +142,7 @@ public class MesWebTests {
 	    usersPage.clickDeleteLinkOnUser(ExcelReader.getValue(row.getCell(0)));
 	    assertTrue("User Destroyed message is not displayed",  newUserPage.isUserDestroyeddMessageDisplayed());
 	    logger.info("Deleted Username: " +ExcelReader.getValue(row.getCell(0))+ "Successfully");
-	    
-	   
-	    			
+	    	
 	}
 	
 	@Test
@@ -158,7 +165,10 @@ public class MesWebTests {
 			    errMsgRequiredInvalidFields = newUserPage.getErrorMsgForRequiredInvalid();
 			    assertEquals("Error Msg for Invalid Uname Entry not matching", ExcelReader.getValue(row.getCell(3)), errMsgRequiredInvalidFields[0]);
 			    assertEquals("Error Msg for Invalid pswd Entry not matching", ExcelReader.getValue(row.getCell(4)), errMsgRequiredInvalidFields[1]);
-			     assertEquals("Error Msg for Invalid email Entry not matching", ExcelReader.getValue(row.getCell(5)), errMsgRequiredInvalidFields[2]);
+			    /**
+			     * Below assertion fails - The value for email is not mandatory but displays error message for blank email field
+			     */
+			    assertEquals("Error Msg for Invalid email Entry not matching", ExcelReader.getValue(row.getCell(5)), errMsgRequiredInvalidFields[2]);
 			    if (row.getRowNum() == 3)
 			    logger.info( "Error Messages on Invalid  inputs validated");			    
 			    else
@@ -166,6 +176,23 @@ public class MesWebTests {
 			 }
 			    	
 		}
+	}
+	
+	@Test
+	public void test5UsersPage()
+	{
+		usersPage.clickOnUsersTab();
+		assertTrue("BatchActions is NOT disabled",usersPage.isBatchActionsDisplayedandDisabled());
+		usersPage.doSelectUserrow();
+		assertTrue("BatchActions is disabled even after row selection",usersPage.isBatchActionsDisplayedandDisabled());
+		assertTrue("Total Users in User Table doesn't match with count displayed in footer label", usersPage.isTotalUserCountinFooterInfo());
+		assertTrue("First Page is not Selected Current by Default", usersPage.isFirstPageSelectedCurrent());
+		/**
+		 * @TODO implement 
+		 *  pagination tests, 
+		 *  1 column sort
+		 */
+		
 	}
 
 	

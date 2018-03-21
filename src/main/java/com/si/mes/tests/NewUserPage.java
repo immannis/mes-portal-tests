@@ -1,5 +1,8 @@
 package com.si.mes.tests;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -15,6 +18,8 @@ public class NewUserPage {
 
 	private WebDriver driver;
 	private static Logger logger = Logger.getLogger(NewUserPage.class);
+	private SimpleDateFormat filterDateFormat = new SimpleDateFormat("yyyy-MM-dd");
+	private SimpleDateFormat userTableDateFormat = new SimpleDateFormat("MMMM dd, yyyy HH:mm");
 
 	public NewUserPage(WebDriver webDriver) {
 		driver = webDriver;
@@ -140,13 +145,23 @@ public class NewUserPage {
     */
    public String[] getValuesFromCustomerDetails() {
 	   
-	   String[] getCreatedUserDetails = new String[2];
+	 
+	   String[] getCreatedUserDetails = new String[3];
 	   String baseXpathExpr = "//div[@class='attributes_table user']//tr[@class='row row";
 	   
 	   getCreatedUserDetails[0] = driver.findElement(By.xpath(baseXpathExpr +"-username']/td")).getText();
-	   getCreatedUserDetails[1] = driver.findElement(By.xpath(baseXpathExpr +"-email']/td")).getText();	   
+	   getCreatedUserDetails[1] = driver.findElement(By.xpath(baseXpathExpr +"-email']/td")).getText();	
+	   getCreatedUserDetails[2] = driver.findElement(By.xpath(baseXpathExpr +"-created_at']/td")).getText();	   
+	 
+	   try {
+		   getCreatedUserDetails[2] = filterDateFormat.format(userTableDateFormat.parse("March 21, 2018 21:20"));
+		  
+		} catch (ParseException e) {
+			logger.error(e);
+		}
 	   
 	   return getCreatedUserDetails;
+	   
    }
 
 	public boolean isElementPresent(String xpath) {

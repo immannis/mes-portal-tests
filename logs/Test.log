@@ -1,0 +1,2069 @@
+2018-03-17 14:58:26 INFO  ApplyUserFilter:31 - This is info message from test method
+2018-03-17 15:02:29 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 15:02:30 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 15:02:30 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 16:26:04 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 16:26:05 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 16:26:05 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 16:26:46 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 16:26:47 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 16:26:47 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 16:26:48 INFO  UsersPage:29 - Navigated to UsersPage
+2018-03-17 18:25:36 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 18:25:37 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 18:25:37 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 18:25:38 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 18:29:28 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 18:29:29 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 18:29:29 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 18:29:30 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 18:32:34 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 18:32:36 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 18:32:36 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 18:32:36 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 18:35:02 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 18:35:04 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 18:35:04 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 18:35:04 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 18:35:04 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 18:36:18 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 18:36:19 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 18:36:19 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 18:36:20 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 18:36:20 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:04:09 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:04:10 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:04:10 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:04:11 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:04:11 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:04:11 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:06:14 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:06:16 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:06:16 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:06:16 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:06:16 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:06:16 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:16:16 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:16:17 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:16:17 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:16:18 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:16:18 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:16:18 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:26:50 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:26:51 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:26:51 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:26:52 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:26:52 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:26:52 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:27:18 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:27:19 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:27:19 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:27:20 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:27:20 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:27:20 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:28:58 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:28:59 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:28:59 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:29:00 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:29:00 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:29:00 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:29:26 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:29:27 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:29:27 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:29:27 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:29:27 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:29:27 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:40:12 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:40:13 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:40:13 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:40:14 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:40:14 INFO  ApplyUserFilter:38 - Verified FilterSection is displayed
+2018-03-17 23:40:14 INFO  ApplyUserFilter:40 - Verify SearchStatus Section is NOT displayed
+2018-03-17 23:44:04 INFO  ApplyUserFilter:42 - Username Rule fields are displayed and enabled
+2018-03-17 23:46:16 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:46:18 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:46:18 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:46:19 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:57:34 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:57:35 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:57:35 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:57:36 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:57:59 INFO  ApplyUserFilter:25 - Driver initialized!!
+2018-03-17 23:58:00 INFO  ApplyUserFilter:28 - Loading application web page!!
+2018-03-17 23:58:00 INFO  ApplyUserFilter:34 - Running UsersFilter test.
+2018-03-17 23:58:01 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-17 23:58:01 INFO  ApplyUserFilter:40 - Username Rule fields are displayed and enabled
+2018-03-17 23:58:01 INFO  ApplyUserFilter:42 - Email Rule fields are displayed and enabled
+2018-03-18 00:32:12 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:32:14 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 00:33:19 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:33:20 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 00:35:23 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:35:24 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 00:51:21 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:51:22 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 00:53:54 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:53:56 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 00:54:37 INFO  ApplyUserFilter:26 - Driver initialized!!
+2018-03-18 00:54:38 INFO  ApplyUserFilter:29 - Loading application web page!!
+2018-03-18 02:18:55 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:18:56 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:18:57 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:18:57 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:18:57 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:18:57 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-18 02:18:58 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:18:58 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:18:58 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:23:41 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:23:43 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:23:43 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:23:43 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:23:43 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:23:43 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-18 02:23:44 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:23:44 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:23:44 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:24:45 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:24:46 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:24:46 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:25:16 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:25:18 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:25:18 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:25:18 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:25:19 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:25:19 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-18 02:25:19 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:25:19 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:25:19 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:35:35 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:35:37 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:35:37 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:35:37 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:35:39 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:35:39 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-18 02:35:39 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:35:39 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:35:39 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:36:31 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:36:33 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:36:33 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:36:33 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:36:34 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:36:34 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-18 02:36:35 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:36:35 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:36:35 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:37:59 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:38:01 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:38:01 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:38:02 INFO  ApplyUserFilter:42 - Running validateDefaultFilterView test....
+2018-03-18 02:42:06 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:42:07 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:42:09 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:42:09 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:42:09 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:42:09 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:42:09 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 02:42:09 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:42:09 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:42:09 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:42:44 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:42:45 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:42:47 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:42:47 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:42:47 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:42:47 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row0
+2018-03-18 02:42:47 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 02:42:47 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:42:47 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:42:47 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:46:00 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:46:01 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:46:03 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:46:03 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:46:03 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:47:56 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:47:58 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:47:59 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:47:59 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:47:59 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:47:59 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 02:47:59 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 02:48:00 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:48:00 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:48:00 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:49:17 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:49:18 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:49:20 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:49:20 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:49:20 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:49:27 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 02:53:28 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:53:29 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:53:31 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:53:31 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:53:31 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:53:31 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 02:53:31 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 02:53:31 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 02:53:31 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 02:53:31 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 02:53:45 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:53:47 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:53:49 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:53:49 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:53:49 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:54:02 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 02:58:01 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 02:58:03 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 02:58:04 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 02:58:04 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 02:58:04 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 02:58:15 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:02:04 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:02:05 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:02:07 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:02:07 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:02:07 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:02:07 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:02:36 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:02:38 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:02:38 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:02:38 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:03:36 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:03:37 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:03:39 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:03:39 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:03:39 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:03:39 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:03:39 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:03:40 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:03:40 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:03:40 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:04:18 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:04:20 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:04:22 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:04:22 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:04:22 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:04:22 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:04:22 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:05:05 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:05:05 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:05:06 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:05:34 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:05:36 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:05:37 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:05:37 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:05:37 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:05:37 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:05:38 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:05:38 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:05:38 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:05:38 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:09:12 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:09:13 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:09:15 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:09:15 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:09:15 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:09:15 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:09:15 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:09:15 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:09:16 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:09:16 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:09:47 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:09:49 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:09:50 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:09:50 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:09:50 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:09:50 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:25:06 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:25:07 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:25:09 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:25:09 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:25:09 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:25:09 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:25:09 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:25:10 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:25:10 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:25:10 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:25:53 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:25:54 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:26:21 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:26:22 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:26:24 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:26:24 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:26:24 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:26:24 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:26:56 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:27:12 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:27:12 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:27:33 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:27:34 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:27:36 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:27:36 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:27:36 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:27:36 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:27:36 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:27:37 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:27:37 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:27:37 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:27:37 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:27:37 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:29:13 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:29:15 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:29:17 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:29:17 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:29:17 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:29:17 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:29:17 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:29:17 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:29:18 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:29:18 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:29:18 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:29:18 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:33:02 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:33:03 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:33:05 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:33:05 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:33:05 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:33:05 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:33:06 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:33:06 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:33:06 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row4
+2018-03-18 03:33:07 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:33:07 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:33:07 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:33:07 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:35:02 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:35:04 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:35:19 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:35:45 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:35:47 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:35:49 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:35:49 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:35:49 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:35:49 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:35:50 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:35:50 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:35:51 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row4
+2018-03-18 03:35:51 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:35:51 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 03:35:51 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 03:35:51 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 03:36:59 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:37:01 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:37:03 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:37:03 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:37:03 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:37:03 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:37:47 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:37:48 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:37:50 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:37:50 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:37:50 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:37:50 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:39:33 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:39:35 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:40:06 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:40:08 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:41:24 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:41:25 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:41:27 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:41:27 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:41:27 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:41:27 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:42:06 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:42:07 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:42:07 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row4
+2018-03-18 03:42:07 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:45:08 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:45:10 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:45:11 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:45:11 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:45:11 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:45:11 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row1
+2018-03-18 03:45:12 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row2
+2018-03-18 03:45:13 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row3
+2018-03-18 03:45:13 INFO  ApplyUserFilter:67 - Setting Filters for DataSheet_Row4
+2018-03-18 03:45:13 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 03:56:49 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 03:56:51 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 03:56:53 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 03:56:53 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 03:56:53 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 03:56:53 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row1
+2018-03-18 03:56:53 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 03:56:54 INFO  UsersPage:132 - Email Rule set
+2018-03-18 03:56:54 INFO  UsersPage:142 - Created At Rule set
+2018-03-18 03:56:54 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row2
+2018-03-18 03:56:54 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 03:56:54 INFO  UsersPage:132 - Email Rule set
+2018-03-18 03:56:55 INFO  UsersPage:142 - Created At Rule set
+2018-03-18 03:56:55 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row3
+2018-03-18 03:56:55 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 03:56:55 INFO  UsersPage:132 - Email Rule set
+2018-03-18 03:56:56 INFO  UsersPage:142 - Created At Rule set
+2018-03-18 03:56:56 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row4
+2018-03-18 03:56:56 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 03:56:56 INFO  UsersPage:132 - Email Rule set
+2018-03-18 03:56:57 INFO  UsersPage:142 - Created At Rule set
+2018-03-18 03:56:57 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:21:46 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:21:48 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:21:49 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:21:49 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:21:49 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:21:49 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row1
+2018-03-18 04:21:49 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:21:50 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:21:50 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:23:11 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:23:13 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:23:14 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:23:14 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:23:14 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:23:14 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row1
+2018-03-18 04:23:15 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:23:15 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:23:15 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:23:52 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:23:54 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:23:55 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:23:55 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:23:55 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:23:55 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row1
+2018-03-18 04:23:56 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:23:56 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:23:56 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:23:56 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row2
+2018-03-18 04:23:56 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:23:57 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:23:57 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:23:57 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row3
+2018-03-18 04:23:57 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:23:57 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:23:58 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:23:58 INFO  ApplyUserFilter:67 - Setting Rules for DataSheet_Row4
+2018-03-18 04:23:58 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:23:58 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:23:58 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:23:58 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:37:47 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:37:48 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:37:50 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:37:50 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:37:50 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:37:50 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:37:50 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:37:51 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:37:51 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:37:51 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 04:37:51 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:37:51 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:37:52 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:37:52 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 04:37:52 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:37:52 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:37:53 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:37:53 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 04:37:53 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:37:53 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:37:54 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:37:54 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:39:03 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:39:04 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:39:06 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:39:06 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:39:06 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:39:06 INFO  ApplyUserFilter:68 - Filters Cleared
+2018-03-18 04:39:06 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 04:39:07 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:39:07 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:39:07 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:39:07 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:39:07 INFO  ApplyUserFilter:68 - Filters Cleared
+2018-03-18 04:39:07 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 04:39:08 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:39:08 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:39:08 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:39:08 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:39:08 INFO  ApplyUserFilter:68 - Filters Cleared
+2018-03-18 04:39:08 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 04:39:09 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:39:09 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:39:09 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:39:09 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:39:09 INFO  ApplyUserFilter:68 - Filters Cleared
+2018-03-18 04:39:09 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row4
+2018-03-18 04:39:10 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:39:10 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:39:11 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:39:11 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:39:11 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:40:42 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:40:44 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:41:30 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:41:32 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:41:33 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:41:33 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:41:33 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:41:33 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:41:33 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:41:34 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:41:34 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:41:34 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:41:34 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:41:34 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 04:41:34 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:41:35 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:41:35 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:41:35 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:41:35 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:41:35 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 04:41:35 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:41:36 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:41:36 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:41:36 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:41:36 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:41:36 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 04:41:36 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:41:36 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:41:37 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:41:37 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:41:38 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:41:38 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:42:50 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:42:52 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:43:16 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:43:17 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:43:18 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:43:18 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:43:18 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:43:18 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:43:18 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:43:19 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:43:19 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:43:19 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:43:19 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:43:20 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 04:43:20 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:43:20 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:43:20 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:43:20 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:43:20 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:43:20 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 04:43:20 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:43:21 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:43:21 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:43:21 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:43:21 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:43:21 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 04:43:21 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:43:21 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:43:22 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:43:22 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:43:22 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:43:22 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:45:03 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:45:05 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:45:06 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:45:06 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:45:06 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:45:06 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:45:06 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:45:07 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:45:07 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:45:07 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:45:07 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:45:08 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 04:45:08 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:45:08 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:45:08 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:45:08 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:45:08 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:45:08 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 04:45:08 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:45:09 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:45:09 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:45:09 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:45:09 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:45:09 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 04:45:09 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:45:10 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:45:10 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:45:10 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:45:10 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:45:10 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:46:50 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:46:52 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:46:53 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:46:53 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:46:53 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:46:53 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:46:53 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:46:54 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:46:54 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:46:54 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:46:54 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:46:54 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 04:46:54 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:46:55 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:46:55 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:46:55 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:46:55 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:46:55 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 04:46:55 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:46:56 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:46:56 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:46:56 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:46:56 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:46:56 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 04:46:56 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 04:46:56 INFO  UsersPage:127 - Uname Rule set
+2018-03-18 04:46:57 INFO  UsersPage:132 - Email Rule set
+2018-03-18 04:46:57 INFO  UsersPage:146 - Created At Rule set
+2018-03-18 04:46:57 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 04:46:57 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 04:47:34 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:47:36 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:48:10 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 04:48:11 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 04:48:13 INFO  UsersPage:45 - Navigated to UsersPage
+2018-03-18 04:48:13 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 04:48:13 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 04:48:13 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 04:48:13 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 05:39:14 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 05:39:16 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 05:39:18 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 05:39:18 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 05:39:18 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 05:39:18 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 05:39:18 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 05:40:20 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 05:40:22 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 05:40:23 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 05:40:23 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 05:40:23 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 05:40:23 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 05:40:23 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 05:40:24 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 05:40:25 INFO  UsersPage:134 - Email Rule set
+2018-03-18 05:40:25 INFO  UsersPage:148 - Created At Rule set
+2018-03-18 05:40:25 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 05:40:25 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 05:49:14 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 05:49:15 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 05:49:45 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 05:49:46 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 05:49:48 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 05:49:48 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 05:49:48 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 05:49:48 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 05:49:48 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 05:49:48 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 05:49:49 INFO  UsersPage:136 - Email Rule set
+2018-03-18 05:49:49 INFO  UsersPage:149 - Created At Rule set
+2018-03-18 05:49:49 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 05:49:49 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 05:51:28 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 05:51:30 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 05:51:32 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 05:51:32 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 05:51:32 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 05:51:32 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 05:51:32 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 05:51:32 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 05:51:33 INFO  UsersPage:136 - Email Rule set
+2018-03-18 05:51:33 INFO  UsersPage:149 - Created At Rule set
+2018-03-18 05:51:33 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 21:05:54 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:05:55 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:05:57 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 21:05:57 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:05:57 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:05:57 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:05:57 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 21:05:58 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 21:05:58 INFO  UsersPage:136 - Email Rule set
+2018-03-18 21:05:59 INFO  UsersPage:149 - Created At Rule set
+2018-03-18 21:05:59 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 21:05:59 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:08:36 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:08:38 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:08:39 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 21:08:39 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:08:39 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:08:39 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:08:39 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 21:08:40 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 21:08:40 INFO  UsersPage:136 - Email Rule set
+2018-03-18 21:08:40 INFO  UsersPage:149 - Created At Rule set
+2018-03-18 21:08:41 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 21:11:50 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:11:51 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:11:53 INFO  UsersPage:47 - Navigated to UsersPage
+2018-03-18 21:11:53 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:11:53 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:11:54 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:11:54 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 21:11:54 INFO  UsersPage:129 - Uname Rule set
+2018-03-18 21:11:54 INFO  UsersPage:136 - Email Rule set
+2018-03-18 21:11:55 INFO  UsersPage:149 - Created At Rule set
+2018-03-18 21:11:55 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:21:04 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:21:06 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:21:07 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:21:07 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:21:07 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:21:08 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:21:08 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 21:21:09 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:21:09 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:21:09 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 21:21:09 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:23:15 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:23:17 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:23:18 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:23:18 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:23:18 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:23:19 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:23:19 INFO  ApplyUserFilter:69 - Filters Cleared
+2018-03-18 21:23:19 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:23:20 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:23:20 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 21:23:20 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:26:09 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:26:11 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:26:13 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:26:13 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:26:13 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:26:13 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:26:14 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:26:14 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:26:14 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:37:54 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:37:56 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:37:58 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:37:58 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:37:58 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:37:58 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:37:59 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:37:59 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:38:00 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:38:00 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:39:13 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:39:15 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:39:16 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:39:16 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:39:16 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:39:17 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:39:17 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:39:18 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:39:18 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:48:26 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:48:27 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:48:29 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:48:29 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:48:29 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:48:30 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:48:30 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:48:30 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:48:31 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:48:31 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:48:32 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:48:32 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 21:48:32 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:48:33 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:48:34 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:48:34 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:48:34 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:48:35 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 21:48:35 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:48:36 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:48:36 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:51:54 INFO  ApplyUserFilter:31 - Driver initialized!!
+2018-03-18 21:51:56 INFO  ApplyUserFilter:34 - Loading application web page!!
+2018-03-18 21:51:58 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:51:58 INFO  ApplyUserFilter:39 - Navigated to UsersPage
+2018-03-18 21:51:58 INFO  ApplyUserFilter:58 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:51:58 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row1
+2018-03-18 21:51:59 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:51:59 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:51:59 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:52:14 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:52:14 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:52:15 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row2
+2018-03-18 21:52:15 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:52:16 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:52:16 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:52:16 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:52:17 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:52:17 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row3
+2018-03-18 21:52:17 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:52:18 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:52:55 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 21:52:56 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:52:56 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:52:56 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:52:57 INFO  ApplyUserFilter:68 - Setting Rules for DataSheet_Row4
+2018-03-18 21:52:57 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:52:58 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:53:07 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 21:53:08 INFO  ApplyUserFilter:72 - Filters Applied
+2018-03-18 21:53:08 INFO  ApplyUserFilter:75 - SS Labels Validated
+2018-03-18 21:53:09 INFO  ApplyUserFilter:78 - Filters got Cleared
+2018-03-18 21:53:09 INFO  ApplyUserFilter:45 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:53:09 INFO  ApplyUserFilter:49 - USERNAME label, Default condition field.value field verified
+2018-03-18 21:53:09 INFO  ApplyUserFilter:51 - EMAIL label, Default condition field.value field verified
+2018-03-18 21:53:09 INFO  ApplyUserFilter:53 - CREATED AT label, Default From field,To field verified
+2018-03-18 21:57:12 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 21:57:14 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 21:57:58 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 21:57:59 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 21:58:01 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:58:01 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 21:58:01 INFO  ApplyUserFilter:47 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:58:01 INFO  ApplyUserFilter:51 - USERNAME label, Default condition field.value field verified
+2018-03-18 21:58:01 INFO  ApplyUserFilter:53 - EMAIL label, Default condition field.value field verified
+2018-03-18 21:58:01 INFO  ApplyUserFilter:55 - CREATED AT label, Default From field,To field verified
+2018-03-18 21:58:48 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 21:58:49 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 21:58:51 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 21:58:51 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 21:58:51 INFO  ApplyUserFilter:47 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 21:58:51 INFO  ApplyUserFilter:51 - USERNAME label, Default condition field.value field verified
+2018-03-18 21:58:51 INFO  ApplyUserFilter:53 - EMAIL label, Default condition field.value field verified
+2018-03-18 21:58:51 INFO  ApplyUserFilter:55 - CREATED AT label, Default From field,To field verified
+2018-03-18 21:58:51 INFO  ApplyUserFilter:60 - Running validateFilterUsers test on UserPage....
+2018-03-18 21:58:52 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row1
+2018-03-18 21:58:52 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:58:53 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:58:53 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 21:58:53 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 21:58:54 INFO  ApplyUserFilter:80 - Filters got Cleared
+2018-03-18 21:58:54 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row2
+2018-03-18 21:58:55 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:58:55 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:58:56 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 21:58:57 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 21:58:57 INFO  ApplyUserFilter:80 - Filters got Cleared
+2018-03-18 21:58:58 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row3
+2018-03-18 21:58:58 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:58:58 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:58:59 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 21:58:59 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 21:58:59 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 21:59:00 INFO  ApplyUserFilter:80 - Filters got Cleared
+2018-03-18 21:59:00 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row4
+2018-03-18 21:59:01 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 21:59:01 INFO  UsersPage:137 - Email Rule set
+2018-03-18 21:59:01 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 21:59:02 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 21:59:02 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 21:59:03 INFO  ApplyUserFilter:80 - Filters got Cleared
+2018-03-18 22:02:26 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 22:02:28 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 22:02:29 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 22:02:29 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 22:02:29 INFO  ApplyUserFilter:47 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 22:02:30 INFO  ApplyUserFilter:51 - USERNAME label, Default condition field.value field verified
+2018-03-18 22:02:30 INFO  ApplyUserFilter:53 - EMAIL label, Default condition field.value field verified
+2018-03-18 22:02:30 INFO  ApplyUserFilter:55 - CREATED AT label, Default From field,To field verified
+2018-03-18 22:02:30 INFO  ApplyUserFilter:60 - Running validateFilterUsers test on UserPage....
+2018-03-18 22:02:40 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row1
+2018-03-18 22:02:41 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:02:41 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:02:42 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:02:42 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:02:48 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row2
+2018-03-18 22:02:48 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:02:48 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:02:49 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:02:49 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:02:57 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row3
+2018-03-18 22:02:57 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:02:58 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:03:06 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:03:07 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:03:07 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:03:22 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row4
+2018-03-18 22:03:23 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:03:23 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:03:24 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:03:24 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:03:24 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:04:43 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 22:04:45 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 22:05:05 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 22:05:06 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 22:05:08 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 22:05:08 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 22:05:08 INFO  ApplyUserFilter:47 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 22:05:08 INFO  ApplyUserFilter:51 - USERNAME label, Default condition field.value field verified
+2018-03-18 22:05:08 INFO  ApplyUserFilter:53 - EMAIL label, Default condition field.value field verified
+2018-03-18 22:05:09 INFO  ApplyUserFilter:55 - CREATED AT label, Default From field,To field verified
+2018-03-18 22:05:09 INFO  ApplyUserFilter:60 - Running validateFilterUsers test on UserPage....
+2018-03-18 22:05:09 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row1
+2018-03-18 22:05:09 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:10 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:10 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:11 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:11 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row2
+2018-03-18 22:05:11 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:12 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:13 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:13 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:14 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row3
+2018-03-18 22:05:14 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:15 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:15 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:05:16 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:16 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:16 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row4
+2018-03-18 22:05:16 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:17 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:17 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:05:18 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:18 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:34 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 22:05:35 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 22:05:37 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 22:05:37 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 22:05:37 INFO  ApplyUserFilter:47 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 22:05:37 INFO  ApplyUserFilter:51 - USERNAME label, Default condition field.value field verified
+2018-03-18 22:05:38 INFO  ApplyUserFilter:53 - EMAIL label, Default condition field.value field verified
+2018-03-18 22:05:38 INFO  ApplyUserFilter:55 - CREATED AT label, Default From field,To field verified
+2018-03-18 22:05:38 INFO  ApplyUserFilter:60 - Running validateFilterUsers test on UserPage....
+2018-03-18 22:05:38 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row1
+2018-03-18 22:05:39 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:39 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:40 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:40 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:41 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row2
+2018-03-18 22:05:41 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:41 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:42 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:42 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:43 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row3
+2018-03-18 22:05:44 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:44 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:44 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:05:45 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:45 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 22:05:45 INFO  ApplyUserFilter:70 - Setting Rules for DataSheet_Row4
+2018-03-18 22:05:46 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 22:05:46 INFO  UsersPage:137 - Email Rule set
+2018-03-18 22:05:46 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 22:05:47 INFO  ApplyUserFilter:74 - Filters Applied
+2018-03-18 22:05:47 INFO  ApplyUserFilter:77 - SS Labels Validated
+2018-03-18 23:01:51 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:01:53 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:01:55 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:01:55 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:01:55 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:01:55 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:01:55 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:01:55 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:01:55 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:01:56 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:01:56 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:01:56 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:01:57 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:01:57 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:01:58 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:01:58 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:01:58 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:02:00 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:03:06 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:03:08 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:03:10 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:03:10 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:03:10 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:03:10 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:03:10 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:03:10 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:03:10 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:03:11 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:03:11 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:03:11 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:03:12 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:07:54 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:07:56 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:08:22 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:08:24 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:08:25 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:08:25 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:08:25 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:08:26 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:08:26 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:08:26 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:08:26 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:08:26 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:08:27 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:08:27 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:08:28 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:10:38 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:10:40 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:10:42 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:10:42 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:10:42 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:10:42 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:10:42 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:10:42 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:10:42 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:10:43 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:10:43 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:10:44 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:10:44 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:10:44 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:10:45 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:10:45 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:10:45 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:10:47 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:10:47 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:10:48 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 23:10:48 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:10:48 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:10:49 INFO  UsersPage:154 - Created At Rule set
+2018-03-18 23:10:49 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:14:30 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:14:31 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:14:33 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:14:33 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:14:33 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:14:33 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:14:33 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:14:33 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:14:33 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:14:34 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:14:34 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:14:34 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:14:34 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:14:35 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:14:35 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:14:36 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:14:36 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:14:36 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:14:37 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:14:37 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:14:38 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:14:38 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 23:14:39 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:14:39 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:14:39 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:14:40 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:16:37 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:16:38 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:16:40 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:16:40 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:16:40 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:16:40 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:16:41 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:16:41 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:16:41 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:16:41 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:16:42 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:16:42 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:16:42 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:16:42 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:17:09 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:17:18 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:17:19 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:17:19 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:17:19 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:17:19 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:17:49 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:17:49 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 23:17:50 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:17:50 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:17:50 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:17:51 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:23:22 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:23:24 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:23:25 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:23:25 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:23:25 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:23:26 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:23:26 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:23:26 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:23:26 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:23:26 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:23:27 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:23:27 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:23:50 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:23:56 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:24:18 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:24:19 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:24:19 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:24:19 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:24:53 INFO  UsersPage:155 - Created At Rule set
+2018-03-18 23:24:54 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:25:07 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:25:08 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 23:25:09 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:25:09 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:29:08 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-18 23:29:09 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-18 23:29:11 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-18 23:29:11 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-18 23:29:11 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-18 23:29:11 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-18 23:29:12 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-18 23:29:12 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-18 23:29:12 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-18 23:29:12 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-18 23:29:13 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:29:13 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:29:13 INFO  UsersPage:157 - Created At Rule set
+2018-03-18 23:29:13 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:29:14 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:29:14 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-18 23:29:15 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:29:15 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:29:16 INFO  UsersPage:157 - Created At Rule set
+2018-03-18 23:29:16 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:29:16 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:29:17 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-18 23:29:18 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:29:18 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:29:18 INFO  UsersPage:157 - Created At Rule set
+2018-03-18 23:29:19 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:29:19 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-18 23:29:19 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row4
+2018-03-18 23:29:20 INFO  UsersPage:130 - Uname Rule set
+2018-03-18 23:29:20 INFO  UsersPage:137 - Email Rule set
+2018-03-18 23:29:20 INFO  UsersPage:157 - Created At Rule set
+2018-03-18 23:29:21 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-18 23:29:21 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:31:12 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:31:14 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:31:16 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:31:16 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:31:16 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:31:16 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:31:17 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:31:17 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:31:17 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:31:17 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:31:18 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:31:18 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:31:18 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:31:18 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:31:18 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:35:14 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:35:16 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:35:18 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:35:18 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:35:18 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:35:18 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:35:18 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:35:19 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:35:19 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:35:19 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:35:19 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:35:20 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:35:26 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:35:27 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:35:27 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:40:06 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:40:07 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:40:20 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:40:22 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:40:23 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:40:23 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:40:23 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:40:24 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:40:24 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:40:24 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:40:24 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:40:24 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:40:25 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:40:25 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:40:25 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:40:26 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:40:26 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:40:26 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:40:26 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-19 00:40:27 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:40:27 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:40:28 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:40:28 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:40:28 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:40:28 INFO  UsersPage:298 - Error in isResultSetValidforGivenRule: username failed for Contains in row 1
+2018-03-19 00:41:29 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:41:30 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:41:32 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:41:32 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:41:32 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:41:32 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:41:32 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:41:32 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:41:32 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:41:33 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:41:33 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:41:34 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:41:34 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:41:34 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:41:34 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:41:34 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:41:35 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-19 00:41:35 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:41:36 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:41:36 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:41:37 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:41:37 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:41:37 INFO  UsersPage:298 - Error in isResultSetValidforGivenRule: username failed for Contains in row 1
+2018-03-19 00:42:47 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:42:49 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:42:50 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:42:50 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:42:50 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:42:51 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:42:51 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:42:51 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:42:51 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:42:51 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:42:52 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:42:52 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:42:52 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:42:52 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:42:53 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:42:53 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:42:53 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-19 00:42:54 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:42:54 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:42:54 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:42:55 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:42:55 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:49:35 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:49:37 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:49:51 INFO  ApplyUserFilter:33 - Driver initialized!!
+2018-03-19 00:49:52 INFO  ApplyUserFilter:36 - Loading application web page!!
+2018-03-19 00:49:54 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 00:49:54 INFO  ApplyUserFilter:41 - Navigated to UsersPage
+2018-03-19 00:49:54 INFO  ApplyUserFilter:46 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 00:49:54 INFO  ApplyUserFilter:50 - USERNAME label, condition and value fiels are validated
+2018-03-19 00:49:54 INFO  ApplyUserFilter:52 - EMAIL label, condition and value fiels are validated
+2018-03-19 00:49:55 INFO  ApplyUserFilter:54 - CREATED AT label, Default From field,To field verified
+2018-03-19 00:49:55 INFO  ApplyUserFilter:59 - Running validateFilterUsers test on UserPage....
+2018-03-19 00:49:55 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row1
+2018-03-19 00:49:55 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:49:56 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:49:56 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:49:56 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:49:56 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:49:57 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:49:57 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row2
+2018-03-19 00:49:57 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:49:58 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:49:58 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:49:59 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:49:59 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:50:00 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:50:00 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row3
+2018-03-19 00:50:01 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:50:01 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:50:01 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:50:02 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:50:02 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:50:02 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 00:50:02 INFO  ApplyUserFilter:69 - Setting Rules for DataSheet_Row4
+2018-03-19 00:50:03 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 00:50:03 INFO  UsersPage:154 - Email Rule set
+2018-03-19 00:50:03 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 00:50:04 INFO  ApplyUserFilter:73 - Filters Applied
+2018-03-19 00:50:04 INFO  ApplyUserFilter:77 - Applied Filter Labels in Search Section Validated
+2018-03-19 00:50:04 INFO  ApplyUserFilter:80 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 03:55:07 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 03:55:08 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 03:55:10 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 03:55:10 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 03:55:10 INFO  ApplyUserFilter:93 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 03:55:55 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 03:55:57 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 03:56:24 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 03:56:26 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 03:56:28 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 03:56:28 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 03:56:28 INFO  ApplyUserFilter:93 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 03:57:42 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 03:57:43 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 03:57:45 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 03:57:45 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 03:57:45 INFO  ApplyUserFilter:48 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 03:57:45 INFO  ApplyUserFilter:53 - USERNAME label, condition and value fiels are validated
+2018-03-19 03:57:45 INFO  ApplyUserFilter:55 - EMAIL label, condition and value fiels are validated
+2018-03-19 03:57:45 INFO  ApplyUserFilter:57 - CREATED AT label, Default From field,To field verified
+2018-03-19 03:57:45 INFO  ApplyUserFilter:62 - Running validateFilterUsers test on UserPage....
+2018-03-19 03:57:46 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row1
+2018-03-19 03:57:46 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 03:57:47 INFO  UsersPage:154 - Email Rule set
+2018-03-19 03:57:47 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 03:57:47 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 03:57:47 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 03:57:47 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 03:57:48 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row2
+2018-03-19 03:57:48 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 03:57:49 INFO  UsersPage:154 - Email Rule set
+2018-03-19 03:57:49 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 03:57:50 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 03:57:50 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 03:57:51 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 03:57:51 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row3
+2018-03-19 03:57:52 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 03:57:52 INFO  UsersPage:154 - Email Rule set
+2018-03-19 03:57:52 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 03:57:53 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 03:57:53 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 03:57:53 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 03:57:54 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row4
+2018-03-19 03:57:54 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 03:57:54 INFO  UsersPage:154 - Email Rule set
+2018-03-19 03:57:55 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 03:57:55 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 03:57:55 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 03:57:55 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 03:57:56 INFO  ApplyUserFilter:93 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 04:02:48 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 04:02:50 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 04:02:51 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 04:02:51 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 04:02:51 INFO  ApplyUserFilter:48 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 04:02:52 INFO  ApplyUserFilter:53 - USERNAME label, condition and value fiels are validated
+2018-03-19 04:02:52 INFO  ApplyUserFilter:55 - EMAIL label, condition and value fiels are validated
+2018-03-19 04:02:52 INFO  ApplyUserFilter:57 - CREATED AT label, Default From field,To field verified
+2018-03-19 04:02:52 INFO  ApplyUserFilter:62 - Running validateFilterUsers test on UserPage....
+2018-03-19 04:02:52 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row1
+2018-03-19 04:02:53 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:02:53 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:02:53 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:02:54 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:02:54 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:02:54 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:02:54 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row2
+2018-03-19 04:02:55 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:02:55 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:02:56 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:02:56 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:02:57 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:02:57 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:02:58 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row3
+2018-03-19 04:02:58 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:02:58 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:02:58 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:02:59 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:02:59 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:02:59 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:03:00 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row4
+2018-03-19 04:03:00 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:03:00 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:03:01 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:03:01 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:03:02 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:03:02 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:03:02 INFO  ApplyUserFilter:93 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 04:06:03 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 04:06:04 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 04:06:05 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 04:06:05 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 04:06:05 INFO  ApplyUserFilter:48 - Running validateDefaultFilterView test on UserPage....
+2018-03-19 04:06:05 INFO  ApplyUserFilter:53 - USERNAME label, condition and value fiels are validated
+2018-03-19 04:06:05 INFO  ApplyUserFilter:55 - EMAIL label, condition and value fiels are validated
+2018-03-19 04:06:06 INFO  ApplyUserFilter:57 - CREATED AT label, Default From field,To field verified
+2018-03-19 04:06:06 INFO  ApplyUserFilter:62 - Running validateFilterUsers test on UserPage....
+2018-03-19 04:06:06 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row1
+2018-03-19 04:06:06 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:06:07 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:06:07 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:06:07 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:06:07 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:06:08 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:06:08 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row2
+2018-03-19 04:06:08 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:06:09 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:06:09 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:06:10 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:06:10 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:06:10 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:06:11 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row3
+2018-03-19 04:06:11 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:06:12 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:06:12 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:06:13 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:06:13 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:06:13 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:06:13 INFO  ApplyUserFilter:72 - Setting Rules for DataSheet_Row4
+2018-03-19 04:06:14 INFO  UsersPage:147 - Uname Rule set
+2018-03-19 04:06:14 INFO  UsersPage:154 - Email Rule set
+2018-03-19 04:06:15 INFO  UsersPage:174 - Created At Rule set
+2018-03-19 04:06:15 INFO  ApplyUserFilter:76 - Filters Applied
+2018-03-19 04:06:15 INFO  ApplyUserFilter:80 - Applied Filter Labels in Search Section Validated
+2018-03-19 04:06:15 INFO  ApplyUserFilter:83 - Validated ResulSet for Username, Email for selected filter
+2018-03-19 04:06:16 INFO  ApplyUserFilter:93 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 04:12:17 INFO  ApplyUserFilter:34 - Driver initialized!!
+2018-03-19 04:12:19 INFO  ApplyUserFilter:38 - Loading application web page!!
+2018-03-19 04:12:20 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 04:12:20 INFO  ApplyUserFilter:43 - Navigated to UsersPage
+2018-03-19 04:12:20 INFO  ApplyUserFilter:94 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:32:45 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 05:32:47 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 05:32:48 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 05:32:48 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 05:32:48 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:33:41 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 05:33:43 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 05:33:45 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 05:33:45 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 05:33:45 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:34:25 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 05:34:27 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 05:34:29 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 05:34:29 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 05:34:29 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:35:52 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 05:35:53 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 05:35:55 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 05:35:55 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 05:35:55 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:35:57 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 05:38:00 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 05:38:02 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 05:38:04 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 05:38:04 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 05:38:04 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 05:38:05 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 11:15:54 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 11:15:57 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 11:15:59 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 11:15:59 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 11:15:59 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 11:42:21 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 11:42:25 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 11:42:26 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 11:42:26 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 11:42:26 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 12:07:00 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 12:07:03 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 12:07:06 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 12:07:06 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 12:07:06 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 12:07:09 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 12:09:14 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 12:09:18 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 12:09:20 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 12:09:20 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 12:09:20 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 12:09:23 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 12:09:23 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 12:09:24 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 12:09:24 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 12:09:24 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 13:44:09 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 13:44:17 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 13:44:19 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 13:44:19 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 13:44:19 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 13:44:22 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 13:44:22 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 13:44:23 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 13:44:23 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 13:44:23 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 13:44:25 INFO  ApplyUserFilter:131 - Error Message for Duplicate entries Validated
+2018-03-19 14:27:24 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 14:27:27 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 14:27:28 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 14:27:28 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 14:27:28 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 14:27:30 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 14:27:30 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 14:27:31 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 14:27:31 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 14:27:32 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 14:29:19 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 14:29:21 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 14:29:23 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 14:29:23 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 14:29:23 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 14:30:45 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 14:30:45 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 14:30:46 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 14:30:46 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 14:30:46 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 14:31:30 INFO  ApplyUserFilter:131 - Error Message for Duplicate entries Validated
+2018-03-19 14:31:30 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:05:55 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:05:57 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:05:59 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:05:59 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:05:59 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:06:00 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:07:14 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:07:16 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:07:18 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:07:18 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:07:18 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:07:19 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:08:39 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:08:41 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:08:43 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:08:43 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:08:43 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:08:44 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:08:46 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:08:46 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:08:47 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:08:47 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:08:47 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:08:47 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:08:49 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:08:50 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:09:38 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:09:48 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:10:09 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:10:14 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:10:15 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:10:15 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:10:15 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:10:16 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:11:27 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:11:30 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:11:32 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:11:32 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:11:32 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:11:32 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:11:34 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:11:34 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:11:35 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:11:35 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:11:35 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:11:35 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:11:37 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:11:38 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:12:10 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:12:11 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:12:13 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:12:13 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:12:13 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:12:14 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:12:16 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:12:16 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:12:16 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:12:16 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:12:17 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:12:17 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:13:45 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:13:47 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:13:49 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:13:49 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:13:49 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:13:49 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:15:13 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:15:15 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:15:17 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:15:17 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:15:17 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:15:17 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:15:54 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:16:09 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:16:12 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:16:16 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:16:20 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:16:23 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:17:38 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:18:55 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:18:59 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:19:01 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:19:01 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:19:01 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:19:01 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:19:14 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:19:14 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:19:15 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:19:15 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:19:15 INFO  UsersPage:332 - Navigated to New User Page
+2018-03-19 15:19:15 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:19:17 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:20:17 INFO  UsersPage:48 - Navigated to UsersPage
+2018-03-19 15:29:56 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:30:00 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:36:09 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:36:12 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:36:13 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:36:13 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:36:13 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:36:13 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:36:15 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:36:15 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:36:16 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:36:16 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:36:16 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:36:16 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:36:18 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:36:19 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:38:44 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:38:46 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:38:48 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:38:48 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:38:48 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:38:48 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:38:50 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:38:50 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:38:51 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:38:51 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:38:52 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:38:52 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:38:54 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:38:55 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:41:26 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 15:41:28 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 15:41:31 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:41:31 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 15:41:31 INFO  ApplyUserFilter:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-19 15:41:31 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:41:33 INFO  ApplyUserFilter:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-19 15:41:33 INFO  ApplyUserFilter:114 - NewUser creation Validated
+2018-03-19 15:41:34 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 15:41:34 INFO  ApplyUserFilter:117 - Navigated to UsersPage
+2018-03-19 15:41:35 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 15:41:35 INFO  ApplyUserFilter:119 - Navigated to NewUsersPage
+2018-03-19 15:41:36 INFO  ApplyUserFilter:130 - Error Message for Duplicate entries Validated
+2018-03-19 15:41:37 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:37:22 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:37:24 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:37:26 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:37:26 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:38:59 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:39:01 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:39:04 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:39:04 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:39:05 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 16:53:25 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:53:27 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:53:29 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:53:29 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:53:30 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 16:54:25 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:54:27 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:54:29 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:54:29 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:54:29 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 16:58:26 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:58:28 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:58:30 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:58:30 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:59:33 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 16:59:36 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 16:59:38 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 16:59:38 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 16:59:38 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 21:03:52 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 21:03:53 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 21:03:55 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 21:03:55 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 21:03:55 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 21:05:51 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 21:05:53 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 21:05:54 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 21:05:54 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 21:05:54 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 21:15:26 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 21:15:28 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 21:15:30 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 21:15:30 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 21:15:30 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 21:17:56 INFO  ApplyUserFilter:36 - Driver initialized!!
+2018-03-19 21:17:58 INFO  ApplyUserFilter:40 - Loading application web page!!
+2018-03-19 21:17:59 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-19 21:17:59 INFO  ApplyUserFilter:45 - Navigated to UsersPage
+2018-03-19 21:17:59 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-19 21:18:00 INFO  ApplyUserFilter:165 - Error Messages on Invalid  inputs validated
+2018-03-21 01:53:42 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 01:53:43 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 01:53:45 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-21 01:53:45 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 01:53:45 INFO  MesWebTests:50 - Running validateDefaultFilterView test on UserPage....
+2018-03-21 01:53:51 INFO  MesWebTests:55 - USERNAME label, condition and value fiels are validated
+2018-03-21 01:53:51 INFO  MesWebTests:57 - EMAIL label, condition and value fiels are validated
+2018-03-21 01:53:51 INFO  MesWebTests:59 - CREATED AT label, Default From field,To field verified
+2018-03-21 01:53:51 INFO  MesWebTests:64 - Running validateFilterUsers test on UserPage....
+2018-03-21 01:53:51 INFO  MesWebTests:74 - Setting Rules for DataSheet_Row1
+2018-03-21 01:53:52 INFO  UsersPage:151 - Uname Rule set
+2018-03-21 01:53:52 INFO  UsersPage:158 - Email Rule set
+2018-03-21 01:53:52 INFO  UsersPage:178 - Created At Rule set
+2018-03-21 01:53:53 INFO  MesWebTests:78 - Filters Applied
+2018-03-21 01:54:03 INFO  MesWebTests:82 - Applied Filter Labels in Search Section Validated
+2018-03-21 01:54:03 INFO  MesWebTests:85 - Validated ResulSet for Username, Email for selected filter
+2018-03-21 01:54:04 INFO  MesWebTests:74 - Setting Rules for DataSheet_Row2
+2018-03-21 01:54:04 INFO  UsersPage:151 - Uname Rule set
+2018-03-21 01:54:05 INFO  UsersPage:158 - Email Rule set
+2018-03-21 01:54:05 INFO  UsersPage:178 - Created At Rule set
+2018-03-21 01:54:06 INFO  MesWebTests:78 - Filters Applied
+2018-03-21 01:54:16 INFO  MesWebTests:82 - Applied Filter Labels in Search Section Validated
+2018-03-21 01:54:17 INFO  MesWebTests:85 - Validated ResulSet for Username, Email for selected filter
+2018-03-21 01:54:17 INFO  MesWebTests:74 - Setting Rules for DataSheet_Row3
+2018-03-21 01:54:18 INFO  UsersPage:151 - Uname Rule set
+2018-03-21 01:54:18 INFO  UsersPage:158 - Email Rule set
+2018-03-21 01:54:18 INFO  UsersPage:178 - Created At Rule set
+2018-03-21 01:54:19 INFO  MesWebTests:78 - Filters Applied
+2018-03-21 01:54:29 INFO  MesWebTests:82 - Applied Filter Labels in Search Section Validated
+2018-03-21 01:54:30 INFO  MesWebTests:85 - Validated ResulSet for Username, Email for selected filter
+2018-03-21 01:54:30 INFO  MesWebTests:74 - Setting Rules for DataSheet_Row4
+2018-03-21 01:54:31 INFO  UsersPage:151 - Uname Rule set
+2018-03-21 01:54:31 INFO  UsersPage:158 - Email Rule set
+2018-03-21 01:54:32 INFO  UsersPage:178 - Created At Rule set
+2018-03-21 01:54:32 INFO  MesWebTests:78 - Filters Applied
+2018-03-21 01:54:33 INFO  MesWebTests:82 - Applied Filter Labels in Search Section Validated
+2018-03-21 01:54:43 INFO  MesWebTests:85 - Validated ResulSet for Username, Email for selected filter
+2018-03-21 01:54:43 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 01:54:44 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-21 01:54:46 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 01:54:46 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 01:54:46 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-21 01:54:46 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 01:54:46 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-21 01:54:46 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 01:54:47 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 01:54:48 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-21 01:54:49 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-21 01:54:49 INFO  MesWebTests:163 - Error Messages on Invalid  inputs validated
+2018-03-21 02:01:08 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:01:10 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:01:11 INFO  UsersPage:52 - Navigated to UsersPage
+2018-03-21 02:01:11 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:01:12 INFO  UsersPage:336 - Navigated to New User Page
+2018-03-21 02:01:13 INFO  MesWebTests:163 - Error Messages on Invalid  inputs validated
+2018-03-21 02:08:22 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:08:23 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:08:25 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:08:25 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:08:25 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:08:25 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:08:26 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:09:45 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:09:47 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:09:48 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:09:49 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:09:49 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:09:49 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:09:49 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:09:51 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:09:51 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:09:51 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:09:51 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:09:51 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:09:51 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:09:51 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:09:53 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:09:53 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:09:54 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:11:24 INFO  MesWebTests:135 - Deleted Username: TestSI1Successfully
+2018-03-21 02:12:05 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:12:07 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:12:08 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:12:09 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:12:09 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:12:09 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:12:09 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:12:11 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:12:11 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:12:11 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:12:11 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:12:11 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:12:11 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:12:11 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:12:13 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:12:13 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:12:14 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:14:05 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:14:07 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:14:07 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:14:08 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:14:08 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:14:08 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:14:08 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:16:29 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:16:30 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:16:32 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:16:32 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:16:32 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:16:32 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:16:33 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:17:20 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:17:21 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:17:22 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:17:23 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:17:23 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:17:23 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:17:23 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:17:25 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:17:25 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:17:25 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:17:25 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:17:25 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:17:26 INFO  UsersPage:337 - Navigated to New User Page
+2018-03-21 02:17:26 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:17:27 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:17:28 INFO  UsersPage:50 - waiting for Users Page load
+2018-03-21 02:17:28 INFO  UsersPage:53 - Navigated to UsersPage
+2018-03-21 02:23:01 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:23:02 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:23:04 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:23:04 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:23:04 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:23:04 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:23:05 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:23:06 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:23:06 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:23:06 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:23:07 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:23:07 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:23:07 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:23:07 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:23:08 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:23:08 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:23:09 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:27:23 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:27:25 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:27:26 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:27:27 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:27:27 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:27:27 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:27:27 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:27:29 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:27:29 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:27:29 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:27:29 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:27:29 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:27:29 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:27:29 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:27:31 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:27:31 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:27:31 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:29:31 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:29:33 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:29:34 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:29:35 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:29:35 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:29:35 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:29:35 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:30:01 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:30:03 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:30:04 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:30:05 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:30:05 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:30:05 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:30:05 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:30:06 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:30:07 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:30:07 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:30:07 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:30:07 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:30:07 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:30:07 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:30:09 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:30:09 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:30:10 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:33:19 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:33:20 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:33:22 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:33:22 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:33:22 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:33:22 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:33:22 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:33:24 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:33:24 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:33:24 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:33:24 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:33:24 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:33:25 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:33:25 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:33:26 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:33:26 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:33:27 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:35:09 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:35:11 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:35:12 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:35:12 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:35:12 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:35:12 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:35:13 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:35:14 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:35:14 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:35:14 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:35:15 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:35:15 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:35:15 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:35:15 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:35:17 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:35:17 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:35:17 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:35:18 ERROR UsersPage:366 - Unexpected modal dialog (text: Are you sure you want to delete this?): Are you sure you want to delete this?
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'BFTSCND71512TT', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 525f7060-1449-498a-94e6-3f9d3bf8e26a
+2018-03-21 02:37:04 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:37:06 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:37:07 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:37:08 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:37:08 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:37:08 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:37:08 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:37:10 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:37:10 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:37:10 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:37:10 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:37:10 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:37:10 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:37:10 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:37:12 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:37:12 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:37:12 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:37:13 ERROR UsersPage:366 - Unexpected modal dialog (text: Are you sure you want to delete this?): Are you sure you want to delete this?
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'BFTSCND71512TT', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a8522e6e-447a-4017-9970-fc15d323c8a5
+org.openqa.selenium.UnhandledAlertException: Unexpected modal dialog (text: Are you sure you want to delete this?): Are you sure you want to delete this?
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'BFTSCND71512TT', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a8522e6e-447a-4017-9970-fc15d323c8a5
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.createUnhandledAlertException(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:154)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.firefox.FirefoxDriver.access$100(FirefoxDriver.java:65)
+	at org.openqa.selenium.firefox.FirefoxDriver$1$1.implicitlyWait(FirefoxDriver.java:244)
+	at com.si.mes.tests.UsersPage.clickDeleteLinkOnUser(UsersPage.java:357)
+	at com.si.mes.tests.MesWebTests.test3CreateUser(MesWebTests.java:133)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+2018-03-21 02:42:45 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:42:47 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:42:48 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:42:49 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:42:49 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:42:49 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:42:49 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:42:51 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:42:51 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:42:51 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:42:51 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:42:51 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:42:51 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:42:51 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:42:53 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:42:53 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:42:54 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:44:52 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:44:54 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:44:55 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:44:56 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:44:56 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:44:56 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:44:56 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:44:57 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:44:57 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:44:58 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:44:58 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:44:58 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:44:58 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:44:58 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:45:00 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:45:00 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:45:01 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:45:52 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:45:53 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:45:55 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:45:55 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:45:55 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:45:55 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:45:56 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:46:33 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:46:35 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:46:36 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:46:36 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:46:36 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:46:36 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:46:37 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:46:38 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:46:38 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:46:38 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:46:39 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:46:39 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:46:39 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:46:39 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:46:41 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:46:41 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:46:42 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:48:38 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:48:40 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:48:41 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:48:42 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:48:42 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:48:42 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:48:42 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:48:44 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:48:44 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:48:44 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:48:44 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:48:44 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:48:45 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:48:45 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:48:46 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:48:47 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:48:47 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:48:54 INFO  UsersPage:361 - Accepting alert message to delete user.
+2018-03-21 02:49:17 INFO  MesWebTests:135 - Deleted Username: TestSI1Successfully
+2018-03-21 02:51:01 INFO  MesWebTests:36 - Driver initialized!!
+2018-03-21 02:51:03 INFO  MesWebTests:40 - Loading application web page!!
+2018-03-21 02:51:04 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:51:04 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:51:04 INFO  MesWebTests:45 - Navigated to UsersPage
+2018-03-21 02:51:04 INFO  MesWebTests:100 - Running test3ValidateNewUserAction test on UserPage....
+2018-03-21 02:51:05 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:51:06 INFO  MesWebTests:109 - Navigated to Edit/Delete User Page and User Success Message displayed
+2018-03-21 02:51:06 INFO  MesWebTests:114 - NewUser creation Validated
+2018-03-21 02:51:07 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:51:07 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:51:07 INFO  MesWebTests:117 - Navigated to UsersPage
+2018-03-21 02:51:07 INFO  UsersPage:338 - Navigated to New User Page
+2018-03-21 02:51:07 INFO  MesWebTests:119 - Navigated to NewUsersPage
+2018-03-21 02:51:09 INFO  MesWebTests:128 - Error Message for Duplicate entries Validated
+2018-03-21 02:51:09 INFO  UsersPage:51 - waiting for Users Page load
+2018-03-21 02:51:09 INFO  UsersPage:54 - Navigated to UsersPage
+2018-03-21 02:51:11 INFO  UsersPage:361 - Accepting alert message to delete user.
+2018-03-21 02:51:12 INFO  MesWebTests:135 - Deleted Username: TestSI1Successfully
